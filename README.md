@@ -30,7 +30,7 @@ _12 TILs and counting..._
 - [컴퓨터 과학](CS/computerScience.md)
 
 ### [CSS](#CSS)
-- [# CSS Grid 사용하기](CSS/gird.md)
+- [CSS Grid 사용하기](CSS/gird.md)
 
 ### [ETC](#ETC)
 - [함수형 프로그래밍](ETC/functionalPrograming01.md)
