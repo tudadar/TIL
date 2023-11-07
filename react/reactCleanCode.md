@@ -22,7 +22,7 @@ https://www.turing.com/kb/writing-clean-react-code
 
 
 
-<h2>의미있는 이름을 사용</h2>
+<h2>의미있는 이름을 사용 및 컴포넌트화</h2>
 
 예를들면 "id" 또는 "name" 이 아니라 "staffid", "staffname" 과 같이
 
