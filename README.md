@@ -3,7 +3,7 @@
 
 일하거나 공부하거나 하면서 새로 알게된걸 기록
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
@@ -36,6 +36,7 @@ _15 TILs and counting..._
 ### [ETC](#ETC)
 - [함수형 프로그래밍](ETC/functionalPrograming01.md)
 - [GitHub Action](ETC/githubAction.md)
+- [Json Web Token(JWT)](ETC/jsonWebToken.md)
 - [Lazy Loading](ETC/lazyLoading.md)
 
 ### [Git](#Git)
