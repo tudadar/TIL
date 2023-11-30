@@ -3,17 +3,17 @@
 
 일하거나 공부하거나 하면서 새로 알게된걸 기록
 
-_22 TILs and counting..._
+_23 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [업무 효율을 올릴려면?](ETC/increaseProductivity.md) - Thu Nov 30 17:41:22 2023 +0900
 - [빠르게 학습하는 개발자가 되는 방법](ETC/HowToBecomeFastLearningDeveloper.md) - Mon Nov 27 19:01:30 2023 +0900
 - [컴포넌트 분리 기준, 방법](ETC/howToIsolateComponents.md) - Thu Nov 23 10:14:27 2023 +0900
 - [useMemo](react/useMemo.md) - Tue Nov 21 17:49:00 2023 +0900
 - [Parallel Routes(병렬 라우트)](next/parallelRoutes.md) - Mon Nov 20 18:17:03 2023 +0900
-- [tailwind](CSS/tailwind.md) - Mon Nov 20 15:33:15 2023 +0900
 
 ### Categories
 
@@ -40,6 +40,7 @@ _22 TILs and counting..._
 - [함수형 프로그래밍](ETC/functionalPrograming01.md)
 - [GitHub Action](ETC/githubAction.md)
 - [컴포넌트 분리 기준, 방법](ETC/howToIsolateComponents.md)
+- [업무 효율을 올릴려면?](ETC/increaseProductivity.md)
 - [Json Web Token(JWT)](ETC/jsonWebToken.md)
 - [Lazy Loading](ETC/lazyLoading.md)
 
