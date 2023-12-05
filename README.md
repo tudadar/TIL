@@ -35,7 +35,6 @@ _25 TILs and counting..._
 - [tailwind](CSS/tailwind.md)
 
 ### [ETC](#ETC)
-- [JWT 프런트엔드 클라이언트에서 처리 (GraphQL)](ETC/ jwtHasuraGraphql01.md)
 - [빠르게 학습하는 개발자가 되는 방법](ETC/HowToBecomeFastLearningDeveloper.md)
 - [많이 보고 들어보긴 했지만 제대로 알지 못하고 지나간 UI 요소들](ETC/frontUiElements.md)
 - [함수형 프로그래밍](ETC/functionalPrograming01.md)
@@ -43,6 +42,7 @@ _25 TILs and counting..._
 - [컴포넌트 분리 기준, 방법](ETC/howToIsolateComponents.md)
 - [업무 효율을 올릴려면?](ETC/increaseProductivity.md)
 - [Json Web Token(JWT)](ETC/jsonWebToken.md)
+- [JWT 프런트엔드 클라이언트에서 처리 (GraphQL)](ETC/jwtHasuraGraphql01.md)
 - [Lazy Loading](ETC/lazyLoading.md)
 - [MUI와 tailwindcss 비교](ETC/mui-vs-tailwindcss.md)
 
