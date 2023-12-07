@@ -3,7 +3,7 @@
 
 일하거나 공부하거나 하면서 새로 알게된걸 기록
 
-_25 TILs and counting..._
+_26 TILs and counting..._
 
 ---
 
@@ -36,6 +36,7 @@ _25 TILs and counting..._
 
 ### [ETC](#ETC)
 - [빠르게 학습하는 개발자가 되는 방법](ETC/HowToBecomeFastLearningDeveloper.md)
+- [# 개발자의 피그마 활용법](ETC/figma.md)
 - [많이 보고 들어보긴 했지만 제대로 알지 못하고 지나간 UI 요소들](ETC/frontUiElements.md)
 - [함수형 프로그래밍](ETC/functionalPrograming01.md)
 - [GitHub Action](ETC/githubAction.md)
