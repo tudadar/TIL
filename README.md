@@ -64,5 +64,3 @@ _26 TILs and counting..._
 - [리엑트 서버 컴포넌트](react/reactServerComponent.md)
 - [실무중에 발생한 React 랜더링 이슈](react/rendering.md)
 - [useMemo](react/useMemo.md)
-
-
